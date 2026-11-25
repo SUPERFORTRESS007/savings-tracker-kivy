@@ -1,0 +1,98 @@
+{
+  "teen": {
+    "daily": [
+      "Your future self is already saying thanks.",
+      "Small money, big habit. Start today.",
+      "Saving is a flex nobody sees but you.",
+      "Every rand you keep is a choice you made.",
+      "Be the friend who always has a plan.",
+      "Today's pocket money is tomorrow's freedom.",
+      "You don't need much to start. Just start.",
+      "Cool is having a goal and chasing it."
+    ],
+    "deposit": [
+      "Nice one! That rand just joined your team.",
+      "Money in, stress out.",
+      "You showed up for your goal today.",
+      "Boom. Another step closer.",
+      "Future you just did a happy dance.",
+      "That's how habits are built.",
+      "Saved. Sorted. Sweet.",
+      "Look at you, being responsible."
+    ],
+    "withdraw": [
+      "It happens. Take a breath and keep going.",
+      "A dip isn't the end. Rebuild from here.",
+      "Spend it, learn from it, save again.",
+      "Your goal is still waiting for you.",
+      "One withdrawal doesn't undo your effort.",
+      "Plans change. Your goal doesn't have to.",
+      "No stress. Start filling it back up.",
+      "Even the best savers slip sometimes."
+    ],
+    "idle": [
+      "Your goal misses you. One small deposit?",
+      "Orange line alert. Time to wake it up.",
+      "A quiet day is fine. A quiet week, not so much.",
+      "Even R5 gets the line moving.",
+      "Don't ghost your goal.",
+      "Pause is okay. Stopping isn't.",
+      "Tap in today and turn it green.",
+      "Your future self is checking in."
+    ],
+    "milestone": [
+      "Level up! You hit a big moment.",
+      "Look how far you've come.",
+      "You said you'd do it. You did it.",
+      "That's real progress. Be proud.",
+      "Milestone unlocked.",
+      "Halfway proves you can do the rest.",
+      "You just proved saving works for you.",
+      "Big win. Now pick the next goal."
+    ]
+  },
+  "youth": {
+    "daily": [
+      "Build the habit now and the rest gets easier.",
+      "Your twenties are for building, not just spending.",
+      "Money follows plans. Make one today.",
+      "Small deposits are the quiet engine of big dreams.",
+      "Choose the goal that scares you a little.",
+      "Independence is built one saved rand at a time.",
+      "Be patient with the number and strict with the habit.",
+      "Invest in the version of you that's coming."
+    ],
+    "deposit": [
+      "Another brick in the future you're building.",
+      "Consistency beats intensity. Well done.",
+      "That deposit is a vote for your goals.",
+      "Progress logged. Momentum growing.",
+      "You're building freedom, one deposit at a time.",
+      "Discipline today, options tomorrow.",
+      "Strong move. Keep the rhythm.",
+      "Your goal just got closer."
+    ],
+    "withdraw": [
+      "Life costs money. Rebuild without guilt.",
+      "A setback is data, not a verdict.",
+      "Adjust the plan, keep the dream.",
+      "Rebuilding is part of every saver's story.",
+      "Learn what it cost you, then move on.",
+      "One step back, a plan for two forward.",
+      "Be kind to yourself and refill the pot.",
+      "The goal is still yours. Pick it back up."
+    ],
+    "idle": [
+      "The orange line is a nudge, not a failure.",
+      "Momentum fades quietly. Bring it back today.",
+      "Even a tiny deposit restarts the streak.",
+      "Your goals don't need perfection, just presence.",
+      "Check in with your plan. It's waiting.",
+      "A small deposit now beats a big one someday.",
+      "Don't let a quiet week become a quiet month.",
+      "Show up today and the line turns green."
+    ],
+    "milestone": [
+      "You've reached a real milestone. Own it.",
+      "This is what discipline looks like.",
+      "The work you did when no one watched
