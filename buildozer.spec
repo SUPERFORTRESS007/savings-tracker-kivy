@@ -1,4 +1,4 @@
-[app]
+8[app]
 
 # (str) Title of your application
 title = Savings Tracker
@@ -23,7 +23,7 @@ version = 1.0
 requirements = python3,kivy,plyer
 
 # (list) Custom source folders for python modules
-#source.include_dir =
+source.include_dir =
 
 # (str) Supported orientations
 orientation = portrait
